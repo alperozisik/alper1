@@ -1,0 +1,39 @@
+<ApplicationPackageLicenses>
+    <ApplicationPackageLicense>
+        <CompanyName>Smartface User</CompanyName>
+        <LicenseName>Smartface Empty Workspace</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>01.04.2017 14:40:07</CreateDate>
+        <ExpireDate>06.04.2027 14:40:07</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>iOS</PackageType>
+        <PackageName>io.smartface.demo</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>CW/vYSAjXGK15aSKVZxV1n8wuRCcqeHcZJeudbZjZV8GJ0SysPYzGbRXV8O2sKfNK1KvxM+M57TtNVNrCfJKAeGMuZzy47DnU6m/upDbe6wqZWwwuDiDqAmJaURhZlFWmMV3AvWAwYvkEVAnA0zB0fsXfhW2YCg6uI3zk1LYAUQ=</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <ApplicationPackageLicense>
+        <CompanyName>Smartface User</CompanyName>
+        <LicenseName>Smartface Empty Workspace</LicenseName>
+        <SASVersion>v5.0.0</SASVersion>
+        <CreateDate>01.04.2017 14:40:07</CreateDate>
+        <ExpireDate>06.04.2027 14:40:07</ExpireDate>
+        <LicenseType>Professional</LicenseType>
+        <PackageType>Android</PackageType>
+        <PackageName>io.smartface.demo</PackageName>
+        <PackageFeatures>
+            <PackageFeature>
+                <FeatureName>Feature</FeatureName>
+                <FeatureValue>Feature</FeatureValue>
+            </PackageFeature>
+        </PackageFeatures>
+        <TripleDESKey>CW/vYSAjXGK15aSKVZxV1n8wuRCcqeHcZJeudbZjZV8GJ0SysPYzGbRXV8O2sKfNK1KvxM+M57TtNVNrCfJKAeGMuZzy47DnU6m/upDbe6wqZWwwuDiDqAmJaURhZlFWmMV3AvWAwYvkEVAnA0zB0fsXfhW2YCg6uI3zk1LYAUQ=</TripleDESKey>
+        <SignData></SignData>
+    </ApplicationPackageLicense>
+    <TripleDESKeyValue>kLAOs8olu0m5CfJXyWfB+qEElri4Kgi7</TripleDESKeyValue>
+</ApplicationPackageLicenses>
